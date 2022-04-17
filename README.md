@@ -1,3 +1,4 @@
-DDOS master v0.1b
+DDOS master v0.1a
+Custom in english
 
-Youtube: https://youtu.be/xReLjjjSmjE
+Ru Version Youtube: https://youtu.be/xReLjjjSmjE
