@@ -1,2 +1,3 @@
-# DDOS-Ping-Tool-Custom-CMD-in-C-
-Simple tool use CMD ping to DDOS what you want ! Enjoy!
+DDOS master v0.1b
+
+Youtube: https://youtu.be/xReLjjjSmjE
