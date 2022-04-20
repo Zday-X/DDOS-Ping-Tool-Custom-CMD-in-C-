@@ -13,15 +13,3 @@ Ru Version Youtube: https://youtu.be/xReLjjjSmjE
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
